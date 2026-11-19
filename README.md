@@ -25,7 +25,7 @@
 
 1. 下载并运行安装包。
 2. 打开启动器。
-3. 游戏版本选 **Minecraft 26.3**，加载器选 **NeoForge 26.3**。
+3. 客户端用 **NeoForge 26.3（新锻造版）**，群里的整合包已经配好。
 4. 服务器地址填 `mcnewera.top`。
 
 > 客户端不需要额外安装任何模组。
@@ -35,7 +35,7 @@
 - 名称：全新纪元（NE）
 - 地址：`mcnewera.top`
 - 官网：https://mcnewera.top
-- 版本：Minecraft 26.3 + NeoForge 26.3
+- 版本：NeoForge 26.3（新锻造版）
 - QQ 群：1125055014
 
 ## 校验文件
